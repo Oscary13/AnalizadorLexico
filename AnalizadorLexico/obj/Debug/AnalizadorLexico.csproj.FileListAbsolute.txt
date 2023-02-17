@@ -9,3 +9,14 @@ C:\Users\EQUIPO-2\source\repos\AnalizadorLexico\AnalizadorLexico\bin\Debug\Anali
 C:\Users\EQUIPO-2\source\repos\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
 C:\Users\EQUIPO-2\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
 C:\Users\EQUIPO-2\source\repos\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
+C:\Users\User\OneDrive\Escritorio\a\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe.config
+C:\Users\User\OneDrive\Escritorio\a\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.exe
+C:\Users\User\OneDrive\Escritorio\a\AnalizadorLexico\AnalizadorLexico\bin\Debug\AnalizadorLexico.pdb
+C:\Users\User\OneDrive\Escritorio\a\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\a\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Escritorio\a\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Form1.resources
+C:\Users\User\OneDrive\Escritorio\a\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.Properties.Resources.resources
+C:\Users\User\OneDrive\Escritorio\a\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\a\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\a\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.exe
+C:\Users\User\OneDrive\Escritorio\a\AnalizadorLexico\AnalizadorLexico\obj\Debug\AnalizadorLexico.pdb
