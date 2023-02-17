@@ -34,6 +34,8 @@
             this.listBox_variablesOperaciones = new System.Windows.Forms.ListBox();
             this.listBox_variablesDouble = new System.Windows.Forms.ListBox();
             this.listBox_variablesEntero = new System.Windows.Forms.ListBox();
+            this.listBox_variablesString = new System.Windows.Forms.ListBox();
+            this.listBox_variablesContexto = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // interpretar_btn
@@ -57,6 +59,7 @@
             // listBox_variablesEncontradas
             // 
             this.listBox_variablesEncontradas.FormattingEnabled = true;
+            this.listBox_variablesEncontradas.HorizontalScrollbar = true;
             this.listBox_variablesEncontradas.Location = new System.Drawing.Point(28, 381);
             this.listBox_variablesEncontradas.Name = "listBox_variablesEncontradas";
             this.listBox_variablesEncontradas.Size = new System.Drawing.Size(225, 290);
@@ -65,6 +68,7 @@
             // listBox_variablesOperaciones
             // 
             this.listBox_variablesOperaciones.FormattingEnabled = true;
+            this.listBox_variablesOperaciones.HorizontalScrollbar = true;
             this.listBox_variablesOperaciones.Location = new System.Drawing.Point(269, 381);
             this.listBox_variablesOperaciones.Name = "listBox_variablesOperaciones";
             this.listBox_variablesOperaciones.Size = new System.Drawing.Size(231, 290);
@@ -73,6 +77,7 @@
             // listBox_variablesDouble
             // 
             this.listBox_variablesDouble.FormattingEnabled = true;
+            this.listBox_variablesDouble.HorizontalScrollbar = true;
             this.listBox_variablesDouble.Location = new System.Drawing.Point(516, 381);
             this.listBox_variablesDouble.Name = "listBox_variablesDouble";
             this.listBox_variablesDouble.Size = new System.Drawing.Size(209, 290);
@@ -81,16 +86,37 @@
             // listBox_variablesEntero
             // 
             this.listBox_variablesEntero.FormattingEnabled = true;
+            this.listBox_variablesEntero.HorizontalScrollbar = true;
             this.listBox_variablesEntero.Location = new System.Drawing.Point(743, 381);
             this.listBox_variablesEntero.Name = "listBox_variablesEntero";
             this.listBox_variablesEntero.Size = new System.Drawing.Size(200, 290);
             this.listBox_variablesEntero.TabIndex = 7;
+            // 
+            // listBox_variablesString
+            // 
+            this.listBox_variablesString.FormattingEnabled = true;
+            this.listBox_variablesString.HorizontalScrollbar = true;
+            this.listBox_variablesString.Location = new System.Drawing.Point(961, 381);
+            this.listBox_variablesString.Name = "listBox_variablesString";
+            this.listBox_variablesString.Size = new System.Drawing.Size(183, 290);
+            this.listBox_variablesString.TabIndex = 8;
+            // 
+            // listBox_variablesContexto
+            // 
+            this.listBox_variablesContexto.FormattingEnabled = true;
+            this.listBox_variablesContexto.HorizontalScrollbar = true;
+            this.listBox_variablesContexto.Location = new System.Drawing.Point(1164, 381);
+            this.listBox_variablesContexto.Name = "listBox_variablesContexto";
+            this.listBox_variablesContexto.Size = new System.Drawing.Size(209, 290);
+            this.listBox_variablesContexto.TabIndex = 9;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1427, 788);
+            this.Controls.Add(this.listBox_variablesContexto);
+            this.Controls.Add(this.listBox_variablesString);
             this.Controls.Add(this.listBox_variablesEntero);
             this.Controls.Add(this.listBox_variablesDouble);
             this.Controls.Add(this.listBox_variablesOperaciones);
@@ -110,6 +136,8 @@
         private System.Windows.Forms.ListBox listBox_variablesOperaciones;
         private System.Windows.Forms.ListBox listBox_variablesDouble;
         private System.Windows.Forms.ListBox listBox_variablesEntero;
+        private System.Windows.Forms.ListBox listBox_variablesString;
+        private System.Windows.Forms.ListBox listBox_variablesContexto;
     }
 }
 
