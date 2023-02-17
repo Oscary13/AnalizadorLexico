@@ -219,9 +219,9 @@
             this.label9.Font = new System.Drawing.Font("Impact", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.Location = new System.Drawing.Point(1238, 358);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(71, 20);
+            this.label9.Size = new System.Drawing.Size(60, 20);
             this.label9.TabIndex = 20;
-            this.label9.Text = "Lexemas::";
+            this.label9.Text = "Lexema:";
             // 
             // listBox_lexemas
             // 
@@ -238,9 +238,9 @@
             this.TKN.Font = new System.Drawing.Font("Impact", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.TKN.Location = new System.Drawing.Point(1238, 517);
             this.TKN.Name = "TKN";
-            this.TKN.Size = new System.Drawing.Size(71, 20);
+            this.TKN.Size = new System.Drawing.Size(35, 20);
             this.TKN.TabIndex = 22;
-            this.TKN.Text = "Lexemas::";
+            this.TKN.Text = "Tkn:";
             // 
             // listBox_tkn
             // 

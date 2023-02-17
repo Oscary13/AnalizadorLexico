@@ -30,6 +30,8 @@ namespace AnalizadorLexico
             listBox_variablesString.Items.Clear();
             listBox_variablesContexto.Items.Clear();
             listBox_funcionesUtilizadas.Items.Clear();
+            listBox_lexemas.Items.Clear();
+            listBox_tkn.Items.Clear();
 
 
             String texto = texto_richText.Text;
