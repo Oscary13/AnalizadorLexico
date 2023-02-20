@@ -54,7 +54,7 @@
             // interpretar_btn
             // 
             this.interpretar_btn.Font = new System.Drawing.Font("Impact", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.interpretar_btn.Location = new System.Drawing.Point(1215, 5);
+            this.interpretar_btn.Location = new System.Drawing.Point(925, 12);
             this.interpretar_btn.Name = "interpretar_btn";
             this.interpretar_btn.Size = new System.Drawing.Size(185, 43);
             this.interpretar_btn.TabIndex = 1;
@@ -64,9 +64,9 @@
             // 
             // texto_richText
             // 
-            this.texto_richText.Location = new System.Drawing.Point(28, 53);
+            this.texto_richText.Location = new System.Drawing.Point(28, 68);
             this.texto_richText.Name = "texto_richText";
-            this.texto_richText.Size = new System.Drawing.Size(1372, 287);
+            this.texto_richText.Size = new System.Drawing.Size(1082, 258);
             this.texto_richText.TabIndex = 3;
             this.texto_richText.Text = "";
             // 
@@ -74,7 +74,7 @@
             // 
             this.listBox_variablesEncontradas.FormattingEnabled = true;
             this.listBox_variablesEncontradas.HorizontalScrollbar = true;
-            this.listBox_variablesEncontradas.Location = new System.Drawing.Point(28, 381);
+            this.listBox_variablesEncontradas.Location = new System.Drawing.Point(27, 366);
             this.listBox_variablesEncontradas.Name = "listBox_variablesEncontradas";
             this.listBox_variablesEncontradas.Size = new System.Drawing.Size(155, 290);
             this.listBox_variablesEncontradas.TabIndex = 4;
@@ -83,43 +83,43 @@
             // 
             this.listBox_variablesOperaciones.FormattingEnabled = true;
             this.listBox_variablesOperaciones.HorizontalScrollbar = true;
-            this.listBox_variablesOperaciones.Location = new System.Drawing.Point(198, 381);
+            this.listBox_variablesOperaciones.Location = new System.Drawing.Point(197, 366);
             this.listBox_variablesOperaciones.Name = "listBox_variablesOperaciones";
-            this.listBox_variablesOperaciones.Size = new System.Drawing.Size(256, 290);
+            this.listBox_variablesOperaciones.Size = new System.Drawing.Size(256, 121);
             this.listBox_variablesOperaciones.TabIndex = 5;
             // 
             // listBox_variablesDouble
             // 
             this.listBox_variablesDouble.FormattingEnabled = true;
             this.listBox_variablesDouble.HorizontalScrollbar = true;
-            this.listBox_variablesDouble.Location = new System.Drawing.Point(471, 381);
+            this.listBox_variablesDouble.Location = new System.Drawing.Point(197, 535);
             this.listBox_variablesDouble.Name = "listBox_variablesDouble";
-            this.listBox_variablesDouble.Size = new System.Drawing.Size(140, 290);
+            this.listBox_variablesDouble.Size = new System.Drawing.Size(256, 121);
             this.listBox_variablesDouble.TabIndex = 6;
             // 
             // listBox_variablesEntero
             // 
             this.listBox_variablesEntero.FormattingEnabled = true;
             this.listBox_variablesEntero.HorizontalScrollbar = true;
-            this.listBox_variablesEntero.Location = new System.Drawing.Point(630, 381);
+            this.listBox_variablesEntero.Location = new System.Drawing.Point(482, 366);
             this.listBox_variablesEntero.Name = "listBox_variablesEntero";
-            this.listBox_variablesEntero.Size = new System.Drawing.Size(123, 290);
+            this.listBox_variablesEntero.Size = new System.Drawing.Size(123, 121);
             this.listBox_variablesEntero.TabIndex = 7;
             // 
             // listBox_variablesString
             // 
             this.listBox_variablesString.FormattingEnabled = true;
             this.listBox_variablesString.HorizontalScrollbar = true;
-            this.listBox_variablesString.Location = new System.Drawing.Point(774, 381);
+            this.listBox_variablesString.Location = new System.Drawing.Point(482, 535);
             this.listBox_variablesString.Name = "listBox_variablesString";
-            this.listBox_variablesString.Size = new System.Drawing.Size(123, 290);
+            this.listBox_variablesString.Size = new System.Drawing.Size(123, 121);
             this.listBox_variablesString.TabIndex = 8;
             // 
             // listBox_variablesContexto
             // 
             this.listBox_variablesContexto.FormattingEnabled = true;
             this.listBox_variablesContexto.HorizontalScrollbar = true;
-            this.listBox_variablesContexto.Location = new System.Drawing.Point(913, 381);
+            this.listBox_variablesContexto.Location = new System.Drawing.Point(640, 366);
             this.listBox_variablesContexto.Name = "listBox_variablesContexto";
             this.listBox_variablesContexto.Size = new System.Drawing.Size(147, 290);
             this.listBox_variablesContexto.TabIndex = 9;
@@ -138,7 +138,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Impact", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(24, 358);
+            this.label2.Location = new System.Drawing.Point(23, 343);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(163, 20);
             this.label2.TabIndex = 11;
@@ -148,7 +148,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Impact", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(194, 358);
+            this.label3.Location = new System.Drawing.Point(193, 343);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(268, 20);
             this.label3.TabIndex = 12;
@@ -158,7 +158,7 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Impact", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(467, 358);
+            this.label4.Location = new System.Drawing.Point(193, 502);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(144, 20);
             this.label4.TabIndex = 13;
@@ -168,7 +168,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Impact", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(626, 358);
+            this.label5.Location = new System.Drawing.Point(478, 343);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(127, 20);
             this.label5.TabIndex = 14;
@@ -178,7 +178,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Impact", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(770, 358);
+            this.label6.Location = new System.Drawing.Point(478, 512);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(127, 20);
             this.label6.TabIndex = 15;
@@ -188,7 +188,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Impact", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(909, 358);
+            this.label7.Location = new System.Drawing.Point(636, 343);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(151, 20);
             this.label7.TabIndex = 16;
@@ -198,7 +198,7 @@
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Impact", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(1074, 358);
+            this.label8.Location = new System.Drawing.Point(801, 343);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(144, 20);
             this.label8.TabIndex = 18;
@@ -208,7 +208,7 @@
             // 
             this.listBox_funcionesUtilizadas.FormattingEnabled = true;
             this.listBox_funcionesUtilizadas.HorizontalScrollbar = true;
-            this.listBox_funcionesUtilizadas.Location = new System.Drawing.Point(1078, 381);
+            this.listBox_funcionesUtilizadas.Location = new System.Drawing.Point(805, 366);
             this.listBox_funcionesUtilizadas.Name = "listBox_funcionesUtilizadas";
             this.listBox_funcionesUtilizadas.Size = new System.Drawing.Size(140, 290);
             this.listBox_funcionesUtilizadas.TabIndex = 17;
@@ -217,7 +217,7 @@
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Impact", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(1238, 358);
+            this.label9.Location = new System.Drawing.Point(965, 343);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(60, 20);
             this.label9.TabIndex = 20;
@@ -227,7 +227,7 @@
             // 
             this.listBox_lexemas.FormattingEnabled = true;
             this.listBox_lexemas.HorizontalScrollbar = true;
-            this.listBox_lexemas.Location = new System.Drawing.Point(1242, 381);
+            this.listBox_lexemas.Location = new System.Drawing.Point(970, 381);
             this.listBox_lexemas.Name = "listBox_lexemas";
             this.listBox_lexemas.Size = new System.Drawing.Size(140, 121);
             this.listBox_lexemas.TabIndex = 19;
@@ -236,7 +236,7 @@
             // 
             this.TKN.AutoSize = true;
             this.TKN.Font = new System.Drawing.Font("Impact", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TKN.Location = new System.Drawing.Point(1238, 517);
+            this.TKN.Location = new System.Drawing.Point(965, 502);
             this.TKN.Name = "TKN";
             this.TKN.Size = new System.Drawing.Size(35, 20);
             this.TKN.TabIndex = 22;
@@ -246,16 +246,16 @@
             // 
             this.listBox_tkn.FormattingEnabled = true;
             this.listBox_tkn.HorizontalScrollbar = true;
-            this.listBox_tkn.Location = new System.Drawing.Point(1242, 540);
+            this.listBox_tkn.Location = new System.Drawing.Point(969, 525);
             this.listBox_tkn.Name = "listBox_tkn";
-            this.listBox_tkn.Size = new System.Drawing.Size(140, 121);
+            this.listBox_tkn.Size = new System.Drawing.Size(140, 134);
             this.listBox_tkn.TabIndex = 21;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1427, 788);
+            this.ClientSize = new System.Drawing.Size(1146, 676);
             this.Controls.Add(this.TKN);
             this.Controls.Add(this.listBox_tkn);
             this.Controls.Add(this.label9);
